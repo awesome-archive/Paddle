@@ -1,1 +1,0 @@
-add_simple_unittest(test_common)
